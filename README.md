@@ -2,7 +2,7 @@
 
 
 ![Shelltonc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shelltonc&show_icons=true&theme=transparent)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shelltonc&layout=compact)
-## Tecnologias que eu uso no meu dia.
+## Tecnologias que eu uso no meu dia a dia.
 
 
 <div style="display: inline_block"><br/>
